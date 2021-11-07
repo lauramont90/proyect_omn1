@@ -1,0 +1,53 @@
+/* Parrafo del Home */
+
+.Bienvenidos {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    height: 500px;
+    background-image: url(../imagenes/logoPeluqueria.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1350px 500px;
+}
+
+.parrafo {
+    font-family: 'Aton', sans-serif;
+    justify-content: center;
+    text-align: center;
+    color: #fdfdfd;
+    font-size: 30px;
+}
+
+.titlesection {
+    text-align: center;
+}
+
+
+/* Footer */
+
+.footer__ubicacion {
+    text-align: center;
+    display: inline;
+}
+
+.footer {
+    margin-bottom: 30px;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: baseline;
+}
+
+.footer h3 {
+    text-align: center;
+    object-position: center;
+    justify-content: center;
+    color: #F51010;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+;
